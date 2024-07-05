@@ -1,0 +1,5 @@
+sh check_features.sh
+
+source prepara.sh   file_name
+
+sh testd.sh
